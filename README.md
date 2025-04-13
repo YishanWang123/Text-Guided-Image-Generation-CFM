@@ -12,7 +12,7 @@ We use the conditional flow matching model to solve this task. The text prompt i
 
 | Noise to Image                                                             |
 |--------------------------------------------------------------------------|
-| <img src="example/sample_10_progress.png" alt="Noise to Image" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
+| <img src="example/sample_10.png" alt="Noise to Image" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
 
 | Reconstructing Progress                                                     |
 |----------------------------------------------------------------------------|
