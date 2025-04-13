@@ -8,7 +8,7 @@ We use the conditional flow matching model to solve this task. The text prompt i
 
 | Before and After                                                           |
 |--------------------------------------------------------------------------|
-| <img src="example/guided_dog_progress.png" alt="Before and After" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
+| <img src="example/guided_dog.png" alt="Before and After" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
 
 | Noise to Image                                                             |
 |--------------------------------------------------------------------------|
